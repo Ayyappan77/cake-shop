@@ -16,6 +16,26 @@ ul{
     margin-left:15%;
 }
 button{
-    padding:10px;
-    margin:10px
+    
+  display: inline-block;
+  padding: 5px 10px;
+  font-size: 20px;
+
+}
+
+.image{
+    padding:100px;
+}
+body{
+    background-image: url("cake-image.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+header{
+    background-color: purple;
+}
+div{
+    margin-top: 100px;
 }
