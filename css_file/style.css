@@ -19,19 +19,23 @@ header{
   
 }
 
+/*================================
+
+==================================*/
+
 .top{
     display:flex;
     align-items:center;
     justify-content: space-between;
 }
+
 nav {
     
     text-align: center;
     margin-top: 20px;
-    
-    
 }
-nav a{
+
+nav a {
     text-decoration:none;
     color:black;
     margin: 0 15px ;
@@ -39,12 +43,9 @@ nav a{
 }
 
             
-
-
 .logo{
     height:60px;
     width: auto;
-    display:block;
 }
 
 .image-packing{
@@ -113,12 +114,6 @@ width: 20px;
 border-radius: 6px;
 }
 
-
-
-
-
-
-
 .headline{
   color:orange;
   text-align: center;
@@ -133,13 +128,10 @@ border-radius: 6px;
     height: 680px;
     width:auto ;
 }
+
 .para-center{
     text-align: center;
 }  
-
-
-
-
 
 .bakery-section {
   width: 100%;
