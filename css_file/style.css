@@ -852,12 +852,6 @@ products section -page
   color: #555555;
   line-height: 1.6;
   margin: 0 0 20px 0;
-  
-  /* Standard modern multi-line clamping fallback style */
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;  
-  overflow: hidden;
 }
 
 /* CTA Arrow Layout Button */
